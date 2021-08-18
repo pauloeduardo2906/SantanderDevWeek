@@ -30,7 +30,7 @@ Foi proposto durante essa semana de desenvolvimento a recriação do layout do a
 
 ## License 📝
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/josepholiveira/podcastr/blob/main/LICENSE "LICENSE") file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/pauloeduardo2906/SantanderDevWeek/blob/main/LICENSE "LICENSE") file for details.
 
 
 
