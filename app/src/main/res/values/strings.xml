@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">SantanderDevWeek</string>
+    <string name="txt_cliente">Olá, Paulo</string>
     <string name="txt_saldo_disponivel">Saldo disponível</string>
     <string name="txt_saldo_limite">Saldo º Limite</string>
     <string name="txt_ver_extrato">Ver Extrato</string>

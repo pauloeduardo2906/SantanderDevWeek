@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
     private fun bindOnView(conta: Conta) {
         findViewById<TextView>(R.id.tv_usuario).text = conta.cliente.nome
 
+
         findViewById<TextView>(R.id.tv_agencia).text = conta.agencia
 
         findViewById<TextView>(R.id.tv_conta_corrente).text = conta.numero

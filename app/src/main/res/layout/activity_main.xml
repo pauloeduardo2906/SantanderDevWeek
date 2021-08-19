@@ -36,7 +36,7 @@
         android:id="@+id/tv_usuario"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Olá, Paulo"
+        android:text="@string/txt_cliente"
         android:layout_margin="16dp"
         android:textColor="@color/white"
         app:layout_constraintStart_toStartOf="parent"

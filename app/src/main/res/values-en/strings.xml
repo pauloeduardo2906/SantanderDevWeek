@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">SantanderDevWeek</string>
+    <string name="txt_cliente">Hello, Paulo</string>
     <string name="txt_saldo_disponivel">Balance available</string>
     <string name="txt_saldo_limite">Balance º Limit</string>
     <string name="txt_ver_extrato">View Extract</string>
